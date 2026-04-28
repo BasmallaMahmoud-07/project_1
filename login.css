@@ -1,9 +1,9 @@
 body{
     font-family: 'Roboto' sans-serif;
-    background-image:url(imags/Screenshot\ 2024-07-05\ 020517.png);
+    background-image:url(Screenshot\ 2024-07-05\ 020517.png);
     background-size:100%;
     background-size:cover;
-    background-image: linear-gradient(rgba(0,0,0,0.4)),url(imags/Screenshot\ 2024-07-05\ 020517.png);
+    background-image: linear-gradient(rgba(0,0,0,0.4)),url(Screenshot\ 2024-07-05\ 020517.png);
 }
 .cont{
     width: 470px;
